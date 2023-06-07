@@ -18,4 +18,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("TransUNet-Segmentation")
+logger = logging.getLogger("TransUNet")
