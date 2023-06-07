@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Radiology-Machine-Learning"
 AUTHOR_USER_NAME = "AyushGupta235"
-SRC_REPO = "TransUNet-Segmentation"
+SRC_REPO = "TransUNet"
 AUTHOR_EMAIL = "ayush1000gupta@gmail.com"
 
 
@@ -17,7 +17,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="A small python package for CNN app",
+    description="A small python package for TransUNet app",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",

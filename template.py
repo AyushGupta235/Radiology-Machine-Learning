@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format = '[%(asctime)s]: %(message)s:') 
 # Current task time + logging message
 
-project_name = "TransUNet-Segmentation"
+project_name = "TransUNet"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
